@@ -1,0 +1,11 @@
+{
+  "serviceurls": {
+    "AI_API_URL": "https://api.ai.prod.eu-central-1.aws.ml.hana.ondemand.com"
+  },
+  "appname": "8bc16ea0-ef7d-4c7b-9c1e-14da9fcb7d35!b313091|aisvc-662318f9-ies-aicore-service!b540",
+  "clientid": "sb-8bc16ea0-ef7d-4c7b-9c1e-14da9fcb7d35!b313091|aisvc-662318f9-ies-aicore-service!b540",
+  "clientsecret": "523ac466-9e40-4ade-9732-e21299aee02d$kt-t6agMxLry5XfjvO3E15zRvfyRmpvbTp144RmGUYU=",
+  "identityzone": "sapit-core-playground-vole",
+  "identityzoneid": "2aaefd82-b1fe-4b56-aa22-851c0e271604",
+  "url": "https://sapit-core-playground-vole.authentication.eu10.hana.ondemand.com"
+}
